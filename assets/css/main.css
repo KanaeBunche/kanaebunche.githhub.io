@@ -167,6 +167,10 @@ input, select, textarea {
 			color: #53e3fb !important;
 		}
 
+		a{
+			text-decoration: none;
+		}
+
 	strong, b {
 		color: #ffffff;
 		font-weight: 600;
